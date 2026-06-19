@@ -21,3 +21,7 @@ Developed a real-time face, eye, and smile detection system using Python and Ope
 - Attendance systems
 - Human-computer interaction
 - Computer vision learning projects
+
+## Project Output
+<img width="713" height="1600" alt="Face_Smile" src="https://github.com/user-attachments/assets/1d64bcd1-a577-4267-b9a9-55f78a2769b8" />
+<img width="713" height="1600" alt="Face_Eye" src="https://github.com/user-attachments/assets/bab8ad2d-7264-4210-846c-dcfe47f40ab2" />
